@@ -59,13 +59,13 @@ Microservices architecture is the chosen solution based on the key requirements:
 
 # Architecture Diagram
 
-![image](DLS_myDrTv.png)
+![image](images/DLS_myDrTv.png)
 
 ---
 
 # Domain Model
 
-## ![image](<Screenshot 2024-10-02 at 12.20.07.jpg>)
+![image](images/architecture_diagram.jpg)
 
 # Requirements
 
